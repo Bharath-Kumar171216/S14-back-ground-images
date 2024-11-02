@@ -1,0 +1,59 @@
+.divclass{
+    width: 350px;
+    height: 580px;
+    border: 10px solid greenyellow;
+    overflow: auto;
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    background-color: antiquewhite;
+    margin: 10px;
+    box-sizing: content-box;
+    box-shadow: 10px 10px 10px black;
+}
+.image{
+    width:200px;
+    height: 200px;
+    object-fit:cover;
+}
+.name{
+    background-color: aqua;
+}
+.para{
+    text-align: justify;
+    background-color: aquamarine;
+}
+#divcsk{
+    background-image: url("./images/csk\ symbol.jpg");
+    background-size: 100px 100px;
+    background-repeat:  repeat;
+}
+#divkkr{
+    background-image: url("./images/KKr\ symbol.png");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+}
+#divgt{
+    background-image: url("./images/GT\ symbol.png");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+
+}
+#divpun{
+    background-image: url("./images/Punjab\ symbol.png");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+#divmi{
+    background-image: url("./images/MI\ symbol.webp");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+#divrcb{
+    background-image: url("./images/Rcb\ symbol.webp");
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
